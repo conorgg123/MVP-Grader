@@ -1,7 +1,7 @@
 ---
 id: "task-mkbx03yk-897wx0ew1"
 created: 2026-01-13T01:30:17.228Z
-updated: 2026-01-13T01:33:59.726Z
+updated: 2026-01-13T01:53:41.147Z
 assigned: ["conorgg123","PearceMullins"]
 tags: ["docs"]
 column: "ideas"
@@ -14,4 +14,4 @@ Honest review of this app and potential to be a huge successor in its category? 
 
 AFTER the review THEN: If i incorporated all of the flaws and fixed them fully. How objectively good would it be?
 
-Save the file as ObjectiveAnalysis.MD when finished.
+Save the file as ObjectiveAnalysis.MD with the PROJECT NAME with a - BEFORE AFTER ALSO when finished.
