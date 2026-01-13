@@ -1,6 +1,17 @@
 {
   "notifications": [
     {
+      "id": "task-edited-task-mkbx03yk-897wx0ew1-1768267869320",
+      "type": "info",
+      "title": "Task updated",
+      "message": "\"Use this Prompt as in Agent for Every Project with Opus 4.5\" was edited",
+      "link": "/board/conorgg123/MVP-Grader?task=task-mkbx03yk-897wx0ew1",
+      "taskId": "task-mkbx03yk-897wx0ew1",
+      "triggeredBy": "conorgg123",
+      "timestamp": "2026-01-13T01:32:27.760Z",
+      "read": false
+    },
+    {
       "id": "assignment-task-mkbx03yk-897wx0ew1-PearceMullins-1768267827125",
       "type": "assignment",
       "title": "conorgg123 assigned you to a task",
