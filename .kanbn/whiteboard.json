@@ -5,8 +5,8 @@
       "type": "rectangle",
       "x": 387,
       "y": 194,
-      "width": 788,
-      "height": 190,
+      "width": 996.5714285714284,
+      "height": 205.71428571428578,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -22,11 +22,11 @@
         "type": 3
       },
       "seed": 986996679,
-      "version": 686,
-      "versionNonce": 1611984807,
+      "version": 873,
+      "versionNonce": 96212551,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1768268112189,
+      "updated": 1768268207077,
       "link": null,
       "locked": false
     }
