@@ -3,8 +3,8 @@
     {
       "id": "CE118m5HNtEvvaPuXMjec",
       "type": "rectangle",
-      "x": 520.333333333333,
-      "y": -398.6666666666667,
+      "x": 667,
+      "y": -361.99999999999994,
       "width": 930.5714285714289,
       "height": 914.7142857142859,
       "angle": 0,
@@ -22,11 +22,11 @@
         "type": 3
       },
       "seed": 986996679,
-      "version": 1486,
-      "versionNonce": 74624566,
+      "version": 1577,
+      "versionNonce": 1258598006,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1768269159554,
+      "updated": 1768269168569,
       "link": null,
       "locked": false
     },
