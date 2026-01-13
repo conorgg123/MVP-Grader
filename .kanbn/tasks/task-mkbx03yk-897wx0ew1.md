@@ -1,8 +1,8 @@
 ---
 id: "task-mkbx03yk-897wx0ew1"
 created: 2026-01-13T01:30:17.228Z
-updated: 2026-01-13T01:30:17.228Z
-assigned: []
+updated: 2026-01-13T01:30:26.492Z
+assigned: ["conorgg123","PearceMullins"]
 tags: ["docs"]
 column: "ideas"
 priority: "high"
