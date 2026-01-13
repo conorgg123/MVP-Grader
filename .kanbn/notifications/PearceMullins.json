@@ -1,0 +1,14 @@
+{
+  "notifications": [
+    {
+      "id": "1768267572882-j9law22tl",
+      "type": "invitation",
+      "title": "Board Invitation",
+      "message": "conorgg123 invited you to collaborate on conorgg123/MVP-Grader",
+      "link": "/board/conorgg123/MVP-Grader",
+      "triggeredBy": "conorgg123",
+      "timestamp": "2026-01-13T01:26:12.882Z",
+      "read": false
+    }
+  ]
+}
