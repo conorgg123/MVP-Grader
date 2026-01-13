@@ -3,10 +3,10 @@
     {
       "id": "CE118m5HNtEvvaPuXMjec",
       "type": "rectangle",
-      "x": 387,
-      "y": 194,
-      "width": 996.5714285714284,
-      "height": 205.71428571428578,
+      "x": 757,
+      "y": -70.33333333333331,
+      "width": 930.5714285714289,
+      "height": 914.7142857142859,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -22,11 +22,11 @@
         "type": 3
       },
       "seed": 986996679,
-      "version": 873,
-      "versionNonce": 96212551,
+      "version": 1358,
+      "versionNonce": 1196866218,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1768268207077,
+      "updated": 1768269156416,
       "link": null,
       "locked": false
     }
